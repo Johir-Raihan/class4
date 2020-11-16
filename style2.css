@@ -1,0 +1,73 @@
+body{
+    margin: 0 auto;
+    padding: 0;
+    background-color: olivedrab;
+}
+.danadan{
+    width: 80px auto;
+    margin: 5px auto;
+    padding: 10px;
+}
+form img{
+    width: 150px;
+    height: 150px; 
+    margin: 10px auto;
+    padding-top: -5px;
+    display: block;
+}
+form{
+    width: 500px;
+    height: 650px;
+    background-color: white;
+    margin: 2px auto;
+    padding: 15px;
+    box-sizing: border-box;
+    box-shadow: yellow;
+    border-radius: 10px 15px;
+    border-color: tomato;
+    text-align: center;
+    
+
+}
+h1{
+    text-align: center;
+    color:red;
+    font-size: 50px;
+}
+form input{
+    width: 350px;
+    height: 30px;
+    margin: 5px auto;
+    padding: 5px;
+    border-radius: 5px;
+    background: lightgreen;
+    
+}
+.nv{
+    cursor: pointer;
+    margin: 20px;
+    border-color: springgreen;
+    background-color: teal; 
+    display: block;
+    text-align: center;
+    margin: 0 auto;
+    
+   
+}
+.billu{
+    color: blue;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 2px;
+    text-align: center;
+}
+.ac{
+    color: blue;
+    font-size: 25px;
+    text-decoration: none;
+    margin-left: 2px;
+    text-align: center;
+    
+
+}
+
